@@ -31,11 +31,9 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bEbola\b/g, "Zombie");
-	v = v.replace(/\bebola\b/g, "zombie");
-	v = v.replace(/\bEBOLA\b/g, "ZOMBIE");
-	v = v.replace(/\bCDC\b/g, "Incompitent agency");
-	
+	v = v.replace(/\bEbola\b/g, "Zombie Virus");
+	v = v.replace(/\bebola\b/g, "zombie virus");
+	v = v.replace(/\bEBOLA\b/g, "ZOMBIE VIRUS");
 	textNode.nodeValue = v;
 }
 
