@@ -7,7 +7,8 @@ Chrome extension that replaces occurrences of 'Ebola' with 'Zombie'
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+Down load this and drag the source folder in to chrome
+
 
 Safari Version
 --------------
