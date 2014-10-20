@@ -33,6 +33,7 @@ function handleText(textNode)
 
 	v = v.replace(/\bEbola\b/g, "Zombie");
 	v = v.replace(/\bebola\b/g, "zombie");
+	v = v.replace(/\bEBOLA\b/g, "ZOMBIE");
 	v = v.replace(/\bCDC\b/g, "Incompitent agency");
 	
 	textNode.nodeValue = v;
