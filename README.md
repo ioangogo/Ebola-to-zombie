@@ -7,7 +7,7 @@ Chrome extension that replaces occurrences of 'Ebola' with 'Zombie'
 Installation
 ------------
 
-Down load this and drag the source folder in to chrome
+[Download](https://github.com/ioangogo/Ebola-to-zombie/delete/master/ebolatozombie.crx) and go to the [extention page](chrome://extensions/) and drag it in to there
 
 
 Safari Version
