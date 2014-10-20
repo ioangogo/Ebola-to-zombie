@@ -34,6 +34,7 @@ function handleText(textNode)
 	v = v.replace(/\bEbola\b/g, "Zombie Virus");
 	v = v.replace(/\bebola\b/g, "zombie virus");
 	v = v.replace(/\bEBOLA\b/g, "ZOMBIE VIRUS");
+	v = v.replace(/\bCDC\b/g, "Incompitent agency");
 	textNode.nodeValue = v;
 }
 
