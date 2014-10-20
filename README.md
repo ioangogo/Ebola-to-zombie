@@ -1,5 +1,5 @@
-cloud-to-butt
-=============
+Ebola-to-zombie
+===============
 
 Chrome extension that replaces occurrences of 'Ebola' with 'Zombie'
 
