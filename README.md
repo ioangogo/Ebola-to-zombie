@@ -1,7 +1,7 @@
 Ebola-to-zombie
 ===============
 
-A GPL Chrome extension that replaces occurrences of 'Ebola' with 'Zombie'. Based off of paicsteve's [Cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) That was released under the WTFPL licence.
+A GPL Chrome extension that replaces occurrences of 'Ebola' with 'Zombie'. Based off of paicsteve's [Cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) That was released under the WTFPL licence but i had to change it becuse of the name.
 
 
 Installation
